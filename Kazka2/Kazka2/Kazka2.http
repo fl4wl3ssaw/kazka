@@ -1,6 +1,0 @@
-@Kazka2_HostAddress = http://localhost:5136
-
-GET {{Kazka2_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
